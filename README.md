@@ -5,3 +5,5 @@
   <img src="./badges/version.svg">
   <img src="./badges/Issues.svg">
 </p>
+
+<img width="250" align="right" src="./gif/work.gif">
