@@ -11,7 +11,7 @@
 :wave: Hi there, my name is Gaurav Batra. 
 - :school: I am an undergradute student at IIIT, Hyderabad.
 - :book: I am currently exploring the awesome field of Machine Learning.
-- :video_game: I play a lot of games ranging from real time statergy games like AOE to action-adventure games like Assasin's creed.
+- :video_game: I play a lot of games ranging from real time strategy games like AOE to action-adventure games like Assasin's creed.
 - :computer: I also love watching animes and reading mangas.
 - :headphones: Listening to music helps me concentrate.
 
